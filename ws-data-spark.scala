@@ -1,4 +1,4 @@
-```scala
+
 /** Prerequisite -- Create Dataframe*/
 
 import org.apache.spark.sql.SparkSession
